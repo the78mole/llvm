@@ -1,0 +1,12 @@
+[submodule "tools/clang"]
+	path = tools/clang
+	url = git@github.com:llvm-mirror/clang.git
+#[submodule "tools/clang/tools/extra"]
+#	path = tools/clang/tools/extra
+#	url = git@github.com:llvm-mirror/clang-tools-extra.git
+[submodule "tools/polly"]
+	path = tools/polly
+	url = git@github.com:llvm-mirror/polly.git
+[submodule "tools/lld"]
+	path = tools/lld
+	url = git@github.com:llvm-mirror/lld.git
